@@ -4,7 +4,7 @@ Streamlit is a Python library for building custom web apps easily and quickly. I
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install streamlit.
 
 ```bash
 pip install streamlit
